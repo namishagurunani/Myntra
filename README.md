@@ -1,4 +1,3 @@
 # myntra
-
-Hosted Link:- https://trishadas13.github.io/myntra/
+- Hosted Link:- https://namishagurunani.github.io/Myntra/
 
