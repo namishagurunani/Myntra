@@ -8,8 +8,7 @@ A clone of the popular online fashion shopping platform, Myntra, created using H
 
 ## Hosted Link
 
-https://av0011.github.io/MYNTRA_MCT_3/
-<hr>
+https://namishagurunani.github.io/Myntra/
 
 ## Features
 
